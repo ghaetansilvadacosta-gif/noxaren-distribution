@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "12345678901234567",
+        "smallImageText": "Noxaren",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "https://github.com/",
+    "servers": [
+        {
+            "id": "Noxaren",
+            "name": "Noxaren",
+            "description": "Le serveur officiel Noxaren",
+            "icon": "https://raw.githubusercontent.com/ghaetansilvadacosta-gif/noxaren-distribution/main/icon.png",
+            "version": "1.20.4",
+            "address": "91.197.6.143:26917",
+            "minecraftVersion": "1.20.4",
+            "discord": {
+                "shortId": "Noxaren",
+                "largeImageText": "Noxaren",
+                "largeImageKey": "seal-circle"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
